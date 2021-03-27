@@ -24,7 +24,8 @@ def add():
 def keluar():
     print("Program selesai, sampai jumpa!")
 
-menu = "Selamat datang!"
+print("Selamat datang!")
+menu = ""
 while menu != "3":
     print("--- Menu ---")
     print(
